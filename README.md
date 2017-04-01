@@ -1,2 +1,2 @@
-This Terraform template shows an example of using count with the local-exec
-and output command.
+This Terraform template shows an example of using the count option with the
+local-exec provisioner and output command.
